@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetHome Controller</string>
+    <string name="device_detail_title">Dettaglio dispositivo</string>
+    <string name="scan_button">Scansiona rete</string>
+    <string name="scanning">Scansione in corso…</string>
+    <string name="no_devices">Nessun dispositivo trovato. Premi Scansiona.</string>
+</resources>
